@@ -36,7 +36,7 @@
     "vue-prismjs": "^1.2.0",
     "vuex": "^3.6.0",
     "vuex-persist": "^2.2.0",
-    "webpack": "^5.76.0",
+    "webpack": "^5.97.1",
     "webpack-cli": "^4.10.0"
   },
   "dependencies": {
